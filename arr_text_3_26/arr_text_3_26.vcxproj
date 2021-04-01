@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{eb337a93-5528-4e22-8609-fc075958af21}</ProjectGuid>
-    <RootNamespace>ifsentence</RootNamespace>
+    <ProjectGuid>{2aefd711-a75e-457f-bb01-68eb6b1d21c3}</ProjectGuid>
+    <RootNamespace>arrtext326</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="comparisonsize.cpp" />
+    <ClCompile Include="arrtext.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

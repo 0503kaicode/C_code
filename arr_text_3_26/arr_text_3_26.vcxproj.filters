@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="comparisonsize.cpp">
+    <ClCompile Include="arrtext.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
